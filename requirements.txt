@@ -2,9 +2,6 @@ absl-py==0.3.0
 alabaster==0.7.10
 alembic==0.9.0
 algopy==0.5.7
-anaconda-client==1.6.14
-anaconda-navigator==1.8.7
-anaconda-project==0.8.2
 arch==4.6.0
 asn1crypto==0.24.0
 astor==0.7.1
