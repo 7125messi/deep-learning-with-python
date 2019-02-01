@@ -18,7 +18,6 @@ bkcharts==0.2
 bleach==2.1.3
 bokeh==0.12.16
 boto==2.48.0
-Bottleneck==1.2.1
 cached-property==1.5.1
 certifi==2018.4.16
 cffi==1.11.5
