@@ -103,7 +103,6 @@ MarkupSafe==1.0
 matplotlib==2.2.2
 mccabe==0.6.1
 memory-profiler==0.55.0
-menuinst==1.4.14
 mistune==0.8.3
 mkl-fft==1.0.0
 mkl-random==1.0.1
