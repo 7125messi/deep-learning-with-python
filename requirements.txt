@@ -159,7 +159,6 @@ pyflakes==1.6.0
 pyglet==1.4.0a1
 Pygments==2.2.0
 pylint==1.8.4
-pyodbc==4.0.23
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 PySocks==1.6.8
