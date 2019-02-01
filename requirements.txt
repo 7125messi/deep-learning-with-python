@@ -39,7 +39,6 @@ decorator==4.3.0
 dill==0.2.9
 distributed==1.21.8
 docutils==0.14
-eli5==0.8
 entrypoints==0.2.3
 enum34==1.1.6
 et-xmlfile==1.0.1
